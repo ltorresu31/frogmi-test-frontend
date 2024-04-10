@@ -27,5 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Possible Known Issue
-If ng serve shows an error on node_modules/ng-multiselect-dropdown/multiselect.component.d.ts:53 please just add a // @ts-ignore in line 53.
+If ng serve shows an error on node_modules/ng-multiselect-dropdown/multiselect.component.d.ts:53 please just add a // @ts-ignore at line 53 in that file.
 This is an unsolved issue posted on https://github.com/NileshPatel17/ng-multiselect-dropdown/issues/411
